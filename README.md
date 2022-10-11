@@ -16,7 +16,7 @@ I'm interested in software engineering, image processing, and computational geom
 
 ## 🌱 I'm Learning
 
-I’m currently learning how to program in Rust and develop applications using Flutter. I've never written a mobil application before!
+I’m currently learning how to program in Rust and develop applications using Flutter. I've never written a mobile application before!
 
 ## 📫 How to reach me.
 
