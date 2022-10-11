@@ -20,7 +20,7 @@ I’m currently learning how to program in Rust and develop applications using F
 
 ## 📫 How to reach me.
 
-You can reach via most social media platforms under the username "jcchurch". :)
+You can reach via most social media platforms under the username "jcchurch". You can also message me on Discord at jcchurch#1673 . :)
 
 - [Twitter](http://twitter.com/jcchurch)
 - [Facebook](https://www.facebook.com/jcchurch)
