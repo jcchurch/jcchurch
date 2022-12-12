@@ -24,8 +24,8 @@ I’m currently learning how to program in Rust and develop applications using F
 
 You can reach via most social media platforms under the username "jcchurch". You can also message me on Discord at jcchurch#1673 . :)
 
-- [Twitter](http://twitter.com/jcchurch)
+- [Mastodon](https://mastodon.social/@jcchurch)
 - [Facebook](https://www.facebook.com/jcchurch)
-- [Instagram](https://www.instagram.com/jcchurch/)
+- [Instagram](https://www.instagram.com/jcchurch)
 - [YouTube](https://www.youtube.com/jcchurch)
-- [My Pet's Instagram Page](https://www.instagram.com/khanthegreeniguana/)
+- [My Pet's Instagram Page](https://www.instagram.com/khanthegreeniguana)
