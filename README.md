@@ -8,9 +8,9 @@ My [Office Hours](https://www.apsu.edu/csci/faculty/office-hours.php) are on the
 
 Courses Taught in the Fall 2022:
 
-- CSCI 1300 Introduction to Web Development
-- CSCI 4230 Programming Langauges
-- CSCI 4602 Software Design and Architecture
+- CSCI 1300 Introduction to Web Development (on-ground)
+- CSCI 3300 Client-side Web Development (on-ground)
+- CSCI 4460 Content Management Systems (on-ground and online)
 
 ## 👀 My Interests
 
