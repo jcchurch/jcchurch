@@ -6,7 +6,7 @@ While in grad school, I wrote a [linear algebra library in C](https://github.com
 
 My [Office Hours](https://www.apsu.edu/csci/faculty/office-hours.php) are on the department website.
 
-Courses Taught in the Fall 2022:
+Courses Taught in the Spring 2023:
 
 - CSCI 1300 Introduction to Web Development (on-ground)
 - CSCI 3300 Client-side Web Development (on-ground)
